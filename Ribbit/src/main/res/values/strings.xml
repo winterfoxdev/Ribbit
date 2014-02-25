@@ -12,6 +12,9 @@
     <string name="password_hint">Password</string>
     <string name="loginButton">Login!</string>
     <string name="signUpText">Sign Up!</string>
-    <string name="title_activity_sign_up">SignUpActivity</string><string name="email_hint">E-mail</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="email_hint">E-mail</string>
+    <string name="signUpErrorMessage">Please make sure you enter a username, password, and email!</string>
+    <string name="signUpErrorTitle">Oops!</string>
 
 </resources>
